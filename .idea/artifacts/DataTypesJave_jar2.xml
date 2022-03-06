@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DataTypesJave:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataTypesJave_jar2</output-path>
+    <root id="archive" name="DataTypesJave.jar">
+      <element id="module-output" name="DataTypesJave" />
+    </root>
+  </artifact>
+</component>
